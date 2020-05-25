@@ -1,2 +1,1 @@
-# TechDegreeProject1
- My First Web Application Project
+# TechDegree Project No 1
